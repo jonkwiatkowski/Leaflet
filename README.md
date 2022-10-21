@@ -46,11 +46,6 @@ The following tasks were performed in part 2:
 
 * Add layer controls to our map.
 
-## Website Visualization
-
-Please click on the link below to see the completed visualization for part 2.
-
-[Earthquake and Fault Line Data Visualization](https://jonkwiatkowski.github.io/leaflet-challenge/)
 
 ## Resources
 
