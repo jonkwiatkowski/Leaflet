@@ -6,6 +6,9 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
+[Earthquake Visualization](https://jonkwiatkowski.github.io/Leaflet/)
+
+
 ## Overview
 
 * Part 1: Create the Earthquake Visualization 
